@@ -1,28 +1,30 @@
 # オロキン貯蔵庫
 
+## MOD
+
 |所有|MOD|
 |:---:|---|
 |[x]|Corrupt Charge|
-|[ ]|Hollow Point|
-|[ ]|Spoiled Strike|
+|[x]|Hollow Point|
+|[x]|Spoiled Strike|
 |[x]|Magnum Force|
 |[x]|Tainted Clip|
-|[ ]|Critical Delay|
+|[x]|Critical Delay|
 |[x]|Heavy Caliber|
 |[ ]|Tainted Mag|
-|[ ]|Vile Precision|
-|[ ]|Narrow Minded|
+|[x]|Vile Precision|
+|[x]|Narrow Minded|
 |[x]|Fleeting Expertise|
 |[x]|Blind Rage|
-|[ ]|Overextended|
+|[x]|Overextended|
 |[x]|Tainted Shell|
-|[ ]|Vicious Spread|
-|[ ]|Burdened Magazine|
+|[x]|Vicious Spread|
+|[x]|Burdened Magazine|
 |[x]|Anemic Agility|
 |[x]|Vile Acceleration|
 |[ ]|Frail Momentum|
-|[ ]|Critical Deceleration|
-|[ ]|Creeping Bullseye|
-|[ ]|Transient Fortitude|
-|[ ]|Depleted Reload|
-|[ ]|Catalyzing Shields|
+|[x]|Critical Deceleration|
+|[x]|Creeping Bullseye|
+|[x]|Transient Fortitude|
+|[x]|Depleted Reload|
+|[x]|Catalyzing Shields|

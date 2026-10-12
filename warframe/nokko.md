@@ -12,6 +12,9 @@
   - [Nokko ニューロティックの設計図](#nokko-ニューロティックの設計図)
   - [Nokko シャーシの設計図](#nokko-シャーシの設計図)
   - [Nokko システムの設計図](#nokko-システムの設計図)
+- [ビルド](#ビルド)
+  - [MOD](#mod)
+  - [アルケイン](#アルケイン)
 
 ## 作成
 
@@ -106,3 +109,27 @@
 |金星|ディープマイン依頼ミッション|再構成|Rotation C|Uncommon (10.00%)|
 |金星|ディープマイン依頼ミッション|再構成 (鋼の道のり)|Rotation B|Rare (5.00%)|
 |金星|ディープマイン依頼ミッション|再構成 (鋼の道のり)|Rotation C|Uncommon (10.00%)|
+
+## ビルド
+
+### MOD
+
+|所有|MOD|入手先|
+|:---:|---|---|
+|[ ]|Corrosive Projection|Duviri/Endless: Tier 1  (Normal): Legendary (0.67%)<br>Duviri/Endless: Tier 3  (Normal): Legendary (0.67%)|
+|[x]|Cunning Drift|アセンションテストの狡猾さテスト|
+|[ ]|Archon Continuity|KAHL 守備隊|
+|[x]|Overextended||
+|[x]|Stretch||
+|[x]|Blind Rage||
+|[x]|Transient Fortitude||
+|[ ]|Primed Flow|Baro Ki'Teer から購入|
+|[x]|Umbral Intensify||
+|[x]|Augur Reach||
+
+### アルケイン
+
+|所有|アルケイン|入手先|
+|:---:|---|---|
+|[ ]|モルト オーグメント (Molt Augmented)|クリサリスの CAVLERO から購入|
+|[ ]|アルケイン クレプスキュラー (Arcane Crepuscular)|ヘックスの ELEANOR から購入|
