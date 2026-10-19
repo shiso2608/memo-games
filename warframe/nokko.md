@@ -116,9 +116,9 @@
 
 |所有|MOD|入手先|
 |:---:|---|---|
-|[ ]|Corrosive Projection|Duviri/Endless: Tier 1  (Normal): Legendary (0.67%)<br>Duviri/Endless: Tier 3  (Normal): Legendary (0.67%)|
+|[x]|Corrosive Projection|クレド提供品|
 |[x]|Cunning Drift|アセンションテストの狡猾さテスト|
-|[ ]|Archon Continuity|KAHL 守備隊|
+|[x]|Archon Continuity|KAHL 守備隊|
 |[x]|Overextended||
 |[x]|Stretch||
 |[x]|Blind Rage||
